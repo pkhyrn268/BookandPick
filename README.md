@@ -4,7 +4,8 @@
 
 사용자의 관심 주제를 바탕으로 책을 추천하고, 독서 습관을 관리하며, 다른 사용자와 감상을 나눌 수 있는 플랫폼입니다.
 
----
+![image](https://github.com/user-attachments/assets/a7b9f42a-527c-4c7e-a9b1-19c7dbbbcd21)
+
 
 ## 🔹 주요 기능
 
